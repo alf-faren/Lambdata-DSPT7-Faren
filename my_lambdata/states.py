@@ -1,5 +1,5 @@
-states={
-'Alabama': 'AL',
+states = {
+    'Alabama': 'AL',
     'Alaska': 'AK',
     'American Samoa': 'AS',
     'Arizona': 'AZ',
@@ -36,7 +36,7 @@ states={
     'New York': 'NY',
     'North Carolina': 'NC',
     'North Dakota': 'ND',
-    'Northern Mariana Islands':'MP',
+    'Northern Mariana Islands': 'MP',
     'Ohio': 'OH',
     'Oklahoma': 'OK',
     'Oregon': 'OR',

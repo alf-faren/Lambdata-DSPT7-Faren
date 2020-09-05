@@ -10,3 +10,4 @@ def datetime_to_cols(df, col_to_convert):
     df[df[col_name_lst[i]]+'hour'] = df[col_to_convert].dt.hour
     df[df[col_name_lst[i]]+'minute'] = df[col_to_convert].dt.minute
     df[df[col_name_lst[i]]+'second'] = df[col_to_convert].dt.second
+    return df
